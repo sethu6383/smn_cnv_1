@@ -1,0 +1,9 @@
+# SMN1/SMN2 discriminating SNPs for GRCh38
+# Format: chromosome	position	ref_allele	alt_allele	snp_name	gene_preference
+# The c.840C>T (rs41293493) is the most commonly used discriminating SNP
+# Position coordinates are 1-based
+
+chr5	70925001	C	T	c.840C>T_SMN1	SMN1
+chr5	69372413	C	T	c.840C>T_SMN2	SMN2
+chr5	70924784	G	A	c.888+100G>A_SMN1	SMN1  
+chr5	69372196	G	A	c.888+100G>A_SMN2	SMN2
